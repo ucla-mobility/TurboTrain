@@ -24,10 +24,11 @@ The codebase is built upon [V2XPnP](https://github.com/Zewei-Zhou/V2XPnP) in the
 ## Citation
 If you find this repository useful for your research, please consider giving us a star 🌟 and citing our paper.
  ```bibtex
-@article{zhou2025turbotrain,
-  title={TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction},
-  author={Zhou, Zewei and Zhao, Seth Z. and Cai, Tianhui and Huang, Zhiyu and Zhou, Bolei and Ma, Jiaqi},
-  journal={arXiv preprint arXiv:2508.04682},
+@inproceedings{zhou2025turbotrain,
+  title={TurboTrain: Towards efficient and balanced multi-task learning for multi-agent perception and prediction},
+  author={Zhou, Zewei and Zhao, Seth Z and Cai, Tianhui and Huang, Zhiyu and Zhou, Bolei and Ma, Jiaqi},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={4391--4402},
   year={2025}
 }
 ```
@@ -41,11 +42,12 @@ Other useful citations:
   year={2024}
 }
 
-@article{zhou2024v2xpnp,
- title={V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction},
- author={Zhou, Zewei and Xiang, Hao and Zheng, Zhaoliang and Zhao, Seth Z. and Lei, Mingyue and Zhang, Yun and Cai, Tianhui and Liu, Xinyi and Liu, Johnson and Bajji, Maheswari and Xia, Xin and Huang, Zhiyu and Zhou, Bolei and Ma, Jiaqi},
- journal={arXiv preprint arXiv:2412.01812},
- year={2024}
+@inproceedings{zhou2025v2xpnp,
+  title={V2xpnp: Vehicle-to-everything spatio-temporal fusion for multi-agent perception and prediction},
+  author={Zhou, Zewei and Xiang, Hao and Zheng, Zhaoliang and Zhao, Seth Z and Lei, Mingyue and Zhang, Yun and Cai, Tianhui and Liu, Xinyi and Liu, Johnson and Bajji, Maheswari and others},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={25399--25409},
+  year={2025}
 }
 
 @article{xiang2024v2xreal,
