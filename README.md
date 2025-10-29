@@ -15,7 +15,7 @@ TurboTrain is the first efficient and balanced multi-task learning paradigm, com
 
 ## Release Plan
 - **`2025/08`**: ✅ [TurboTrain](https://arxiv.org/pdf/2508.04682) paper
-- **`2025/10`**: Full Codebase Release.
+- **`2025/12`**: Full Codebase Release.
 
 ## Acknowledgement
 The codebase is built upon [V2XPnP](https://github.com/Zewei-Zhou/V2XPnP) in the OpenCDA ecosystem family.
