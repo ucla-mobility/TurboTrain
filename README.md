@@ -35,11 +35,13 @@ If you find this repository useful for your research, please consider giving us 
 
 Other useful citations:
  ```bibtex
-@article{zhao2024coopre,
-  title={CooPre: Cooperative Pretraining for V2X Cooperative Perception},
+@inproceedings{zhao2025coopre,
+  title={Coopre: Cooperative pretraining for v2x cooperative perception},
   author={Zhao, Seth Z and Xiang, Hao and Xu, Chenfeng and Xia, Xin and Zhou, Bolei and Ma, Jiaqi},
-  journal={arXiv preprint arXiv:2408.11241},
-  year={2024}
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={11765--11772},
+  year={2025},
+  organization={IEEE}
 }
 
 @inproceedings{zhou2025v2xpnp,
@@ -50,10 +52,12 @@ Other useful citations:
   year={2025}
 }
 
-@article{xiang2024v2xreal,
-  title={V2X-Real: a Largs-Scale Dataset for Vehicle-to-Everything Cooperative Perception},
+@inproceedings{xiang2024v2x,
+  title={V2x-real: a largs-scale dataset for vehicle-to-everything cooperative perception},
   author={Xiang, Hao and Zheng, Zhaoliang and Xia, Xin and Xu, Runsheng and Gao, Letian and Zhou, Zewei and Han, Xu and Ji, Xinkai and Li, Mingxi and Meng, Zonglin and others},
-  journal={arXiv preprint arXiv:2403.16034},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={455--470},
+  year={2024},
+  organization={Springer}
 }
 ```
